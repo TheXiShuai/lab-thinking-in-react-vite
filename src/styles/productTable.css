@@ -1,0 +1,22 @@
+.table{
+    border-bottom:  2px solid lightgrey;
+    border-top: 2px solid lightgray;
+    flex-direction: row;
+    text-align: center;
+}
+
+.header{
+    background-color: lightgray;
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.centered-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This will center the table vertically on the page */
+  }
+  
+ 
